@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/abdms/CLionProjects/untitled3/Board.cpp
+Board.hpp
+C:/Users/abdms/CLionProjects/untitled3/Board.hpp
+
+C:/Users/abdms/CLionProjects/untitled3/Board.hpp
+iostream
+-
+Direction.hpp
+C:/Users/abdms/CLionProjects/untitled3/Direction.hpp
+
+C:/Users/abdms/CLionProjects/untitled3/Demo.cpp
+Board.hpp
+C:/Users/abdms/CLionProjects/untitled3/Board.hpp
+Direction.hpp
+C:/Users/abdms/CLionProjects/untitled3/Direction.hpp
+iostream
+-
+stdexcept
+-
+
+C:/Users/abdms/CLionProjects/untitled3/Direction.hpp
+
